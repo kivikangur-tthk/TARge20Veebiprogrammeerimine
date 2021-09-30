@@ -1,8 +1,3 @@
---== PHP ülesanded 04 ==--
-Õpetaja Aare Klooster, aine PHP, kuupäev 03.2011
-
-Vastused pange TMK serveri kodukataloogi \\angel\username\public_html\php\ylesanded\yl0401.php järgmine failinimega yl0402.php jne. Ülesanded peavad olema näha siit http://students.tmk.edu.ee/php/projektid/projektide_kontroll.php Lisa koodi sisse kommentaariks failide esimele reaks oma nimi, rühm ja kuupäev.
-
 HTML
 
 ================================
